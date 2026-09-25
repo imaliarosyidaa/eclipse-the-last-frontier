@@ -2,7 +2,7 @@
 
 ## Deskripsi
 Eclipse The Last Frontier adalah konsep game petualangan masa depan (futuristik) yang membawa pemain menjelajahi dunia misterius, 
-bertemu karakter unik, dan menghadapi berbagai tantangan dalam perjalanan menuju frontier terakhir. Ka
+bertemu karakter unik, dan menghadapi berbagai tantangan dalam perjalanan menuju frontier terakhir.
 
 ## Teknologi yang digunakan
 
@@ -19,7 +19,7 @@ bertemu karakter unik, dan menghadapi berbagai tantangan dalam perjalanan menuju
 Yang dilakukan setelah clone
 
 1. Pastikan nodejs sudah terinstall di laptop, gunakan `node -v` untuk mengecek
-2. Install npm package pake `npm install`, ini buat install beberapa package seperti tailwind dan alphine
+2. Install npm package pake `npm install`, ini buat install beberapa package seperti tailwind dan framer motion
 3. Jalankan build css nya, pake `npm run dev`
 4. Copy Link yang muncul di terminal, terdapat dua macam local dan network, pilih salah satu
    Local:   http://localhost:8443/
